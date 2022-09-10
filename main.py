@@ -15,7 +15,8 @@ def root():
     '''
     Show welcome message.
     '''
-    return {"message": "Go to endpoint '/example' to see an example JSON output."}
+    return {"message": "Go to endpoint '/races-per-season' to see an example JSON output."}
+
 
 @app.get("/races-per-season")
 def get_races_per_season():
