@@ -1,4 +1,3 @@
-from unicodedata import name
 from data.utils import load_data, process_data
 from fastapi import FastAPI
 import uvicorn
