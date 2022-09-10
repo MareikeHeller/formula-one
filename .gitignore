@@ -1,4 +1,4 @@
 .ipynb_checkpoints/formula-one-checkpoint.ipynb
 __pycache__/main.cpython-310.pyc
-data/__pycache__/utils.cpython-310.pyc
+app/data/__pycache__/utils.cpython-310.pyc
 .DS_Store
